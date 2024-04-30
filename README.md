@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ata Turhan.
-- 🧠 I’m interested in Software Engineering, Artificial Intelligence, and Finance.
-- 🔗 You can see my [Resume](https://ugc.production.linktr.ee/8613dd81-3b9b-4a53-9d71-d2272990861b_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
-- 💼 I’m looking for a full-time job based in US.
-- 📫 You can reach me via ataturhan21@gmail.com.
+- 👋 Hi, I’m Rohit
+- 🧠 I’m interested in Software Engineering, Artificial Intelligence, and Machine Learning.
+- 🔗 You can see my [Resume], [Linkedin]([https://www.linkedin.com/in/ataturhan/](https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/)), and more on my [Linktree](linktr.ee/rohityaduvanshi03) account.
+- 💼 I’m looking for Contribution.
+- 📫 You can reach me via infixvlog@gmial.com.
 
 <br>
 
