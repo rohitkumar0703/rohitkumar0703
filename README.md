@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://ata-turhan.github.io/" target="_blank">
+<a href="https://github.com/rohitkumar0703" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=rohitkumar0703&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 </a>
 
@@ -57,7 +57,7 @@
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/ataturhan/">
+  <a href = "https://leetcode.com/u/Rohit_kumar_2/">
     <img src="https://leetcard.jacoblin.cool/ataturhan?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
