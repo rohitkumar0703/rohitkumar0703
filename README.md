@@ -7,33 +7,33 @@
 <br>
 
 <a href="https://ata-turhan.github.io/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=ata-turhan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=rohitkumar0703&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 </a>
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ata-turhan&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rohitkumar0703&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ata-turhan&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ata-turhan&theme=dark" alt="Ata's github streak stats"/>
+   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=rohitkumar0703&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=rohitkumar0703&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
 <div align="center">  
   
-  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/ata-turhan?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
+  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/rohitkumar0703?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
 </div>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumar0703&theme=2077" alt="Ata's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitkumar0703&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
 <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
  <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=ata-turhan&theme=onedark&bg_color=000000&column=-1"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=rohitkumar0703&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 
 <div align="center"> 
